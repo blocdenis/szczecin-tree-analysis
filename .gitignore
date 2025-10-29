@@ -1,0 +1,4 @@
+notebooks/data/*.json
+notebooks/data/*.csv
+notebooks/outputs/*.html
+.DS_Store
